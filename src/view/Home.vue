@@ -6,7 +6,7 @@
       <h2>一个有用的UI框架</h2>
       <p class="actions">
         <a href="">Github</a>
-        <a href="">开始</a>
+        <router-link to="/xxx">开始</router-link>
       </p>
     </div>
   </div>
